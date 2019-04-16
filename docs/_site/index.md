@@ -2,25 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+テキストは、 **太字**, _italic_, または ~~取り消し線~~ にすることができます。
 
-[Link to another page](./another-page.html).
+[他のページへのリンク](./another-page.html).
 
-There should be whitespace between paragraphs.
+段落の間に空白があるはずです。
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+段落の間に空白があるはずです。 README、またはプロジェクトに関する情報を含むファイルを含めることをお勧めします。
 
-# Header 1
+# ヘッダー 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+これはヘッダーに続く通常の段落です。 GitHubは、バージョン管理とコラボレーションのためのコードホスティングプラットフォームです。それはあなたと他の人がどこからでもプロジェクトに取り組むことを可能にします。
 
-## Header 2
+## ヘッダー 2
 
-> This is a blockquote following a header.
+> これはヘッダーに続くブロック引用です。
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 何かが十分に重要であるとき、あなたの可能性があなたの支持にならないとしてもあなたはそれをします。
 
-### Header 3
+### ヘッダー 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -37,46 +37,46 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### ヘッダー 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   これはヘッダーに続く番号なしリストです。
+*   これはヘッダーに続く番号なしリストです。
+*   これはヘッダーに続く番号なしリストです。
 
-##### Header 5
+##### ヘッダー 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  これは、ヘッダーに続く番号付きリストです。
+2.  これは、ヘッダーに続く番号付きリストです。
+3.  これは、ヘッダーに続く番号付きリストです。
 
-###### Header 6
+###### ヘッダー 6
 
-| head1        | head two          | three |
+| ヘッド1        | ヘッド2          | 3 |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+### これの下に横の規則があります。
 
 * * *
 
-### Here is an unordered list:
+### これは順不同のリストです。
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
 
-### And an ordered list:
+### そして順序付きリスト:
 
 1.  Item one
 1.  Item two
 1.  Item three
 1.  Item four
 
-### And a nested list:
+### そしてネストしたリス:
 
 - level 1 item
   - level 2 item
@@ -92,16 +92,16 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### 小さい画像
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-### Large image
+### 大きな画像
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### 定義リストはHTML構文で使用できます。
 
 <dl>
 <dt>Name</dt>
@@ -115,9 +115,9 @@ end
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+長い1行のコードブロックは折り返さないでください。長すぎる場合は、横にスクロールしてください。この行はこれを実証するのに十分な長さでなければなりません。
 ```
 
 ```
-The final element.
+最後の要素
 ```
