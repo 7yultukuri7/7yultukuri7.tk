@@ -1,0 +1,19 @@
+.scroll-button {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  background-color: #666;
+  box-shadow: 1px 1px 8px 0 #aaa;
+}
+
+.scroll-button a {
+  display: block;
+  height: 100%;
+  line-height: 54px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
