@@ -1,6 +1,9 @@
 ---
 layout: default
+title: ヘルプ:編集方法
 permalink: /docs/編集方法/
+redirect_from:
+  - /docs/編集方法/index.html
 ---
 
 テキストは、 **太字**, _italic_, または ~~取り消し線~~ にすることができます。
