@@ -1,6 +1,6 @@
 $(function() {
   var appear = false;
-  var pagetop = $('#scroll-button');
+  var pagetop = $('scroll-button');
   $(window).scroll(function () {
     if ($(this).scrollTop() > 100) {  //100pxスクロールしたら
       if (appear == false) {
