@@ -2,8 +2,8 @@
   position: fixed;
   bottom: 40px;
   right: 40px;
-  width: 54px;
-  height: 54px;
+  width: 3em;
+  height: 3em;
   border-radius: 50%;
   background-color: #666;
   box-shadow: 1px 1px 8px 0 #aaa;
