@@ -10,3 +10,5 @@ plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-mentions
+  - jekyll-feed
+  - jekyll-redirect-from
