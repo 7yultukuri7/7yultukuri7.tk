@@ -7,4 +7,4 @@ redirect_from:
   - /ホーム
 ---
 
-準備中
+準備中 :smile:
