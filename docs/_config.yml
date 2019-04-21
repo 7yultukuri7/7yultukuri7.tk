@@ -2,8 +2,10 @@ theme: jekyll-theme-cayman
 title: "7yultukuri7のサイト"
 description: "7yultukuri7がgithubを使って試している"
 timezone: Japan
+url: "https://7yultukuri7.tk" # the base hostname & protocol for your site
 google_analytics: UA-138579216-1
 
 plugins:
   - jekyll-seo-tag
   - jemoji
+  - jekyll-sitemap
