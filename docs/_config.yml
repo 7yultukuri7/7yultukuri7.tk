@@ -9,3 +9,4 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-sitemap
+  - jekyll-mentions
